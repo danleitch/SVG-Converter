@@ -25,4 +25,4 @@ const component = () => {
   )
 }
 
-export default QRCode
+export default Converter
